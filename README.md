@@ -53,7 +53,7 @@ If you find this repository helpful:
 
 ## 📬 Let’s connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hazim%20Karam-blue?style=flat&logo=linkedin)](www.linkedin.com/in/hazim-karam-b14737266)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hazim%20Karam-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hazim-karam-b14737266)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Hazim%20Karam-red?style=flat&logo=leetcode)](https://leetcode.com/u/Hazim_Karam195/)
 
 📧 **hazimkaram159@gmail.com**
