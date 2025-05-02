@@ -19,7 +19,7 @@ The goal is simple: **Solve consistently. Learn deeply. Improve continuously.**
 
 LeetCode Problem Solving Journey
 │
-├── 1929. Concatenation of Array
+├── Question Name & Number
 │   └── Solution.java
 
 ---
