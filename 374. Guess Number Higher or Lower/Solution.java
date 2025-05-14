@@ -12,7 +12,8 @@ public class Solution extends GuessGame {
         int left = 0, right = n;
 
         while(left <= right){
-            int mid = left + (right - left) / 2;
+            int mid = left + (right - left) / 2;   // because max value for 2,147,483,647  (وهي قيمة Integer.MAX_VALUE)
+
             int g = guess(mid);
             if(g == 0) return mid;
             else if (g < 0 ) right = mid - 1;
